@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "sentences": [
+    {
+      "sentence": 1,
+      "text": "알림을 켜거나 끌 수 있어요.",
+      "decision": "no-op",
+      "reason": "합성 안내문의 조건과 표현을 검토했고 수정 없이 보존",
+      "hits": []
+    },
+    {
+      "sentence": 2,
+      "text": "저장 버튼을 눌러야 반영돼요.",
+      "decision": "no-op",
+      "reason": "합성 안내문의 조건과 표현을 검토했고 수정 없이 보존",
+      "hits": []
+    }
+  ]
+}

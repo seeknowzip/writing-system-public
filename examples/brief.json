@@ -1,0 +1,27 @@
+{
+  "genre": "guide",
+  "channel": "web",
+  "delivery_format": "help_article",
+  "audience": "관리자",
+  "situation": "알림 설정 중",
+  "purpose": "설정 저장",
+  "primary_action": "저장 버튼",
+  "facts": [
+    {
+      "text": "알림을 켜거나 끌 수 있다.",
+      "source": "설명용 합성 입력"
+    },
+    {
+      "text": "저장 버튼을 눌러야 반영된다.",
+      "source": "설명용 합성 입력"
+    }
+  ],
+  "required_strings": [],
+  "protected_strings": [
+    "알림"
+  ],
+  "forbidden_strings": [],
+  "voice": {
+    "register": "해요체"
+  }
+}
